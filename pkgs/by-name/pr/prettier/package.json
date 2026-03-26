@@ -32,7 +32,7 @@
     "bin"
   ],
   "dependencies": {
-    "@angular/compiler": "20.0.5",
+    "@angular/compiler": "20.3.18",
     "@babel/code-frame": "7.27.1",
     "@babel/parser": "7.27.7",
     "@babel/types": "7.27.7",
@@ -98,7 +98,7 @@
     "remark-parse": "8.0.3",
     "sdbm": "2.0.0",
     "search-closest": "1.1.0",
-    "smol-toml": "1.3.4",
+    "smol-toml": "1.6.1",
     "strip-ansi": "7.1.0",
     "to-fast-properties": "4.0.0",
     "trim-newlines": "5.0.0",
@@ -108,7 +108,7 @@
     "url-or-path": "2.6.1",
     "vnopts": "2.0.2",
     "wcwidth.js": "2.0.0",
-    "yaml": "1.10.2",
+    "yaml": "1.10.3",
     "yaml-unist-parser": "2.0.5"
   },
   "devDependencies": {
